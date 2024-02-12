@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Erdem Aydın
 - 🔭 I’m currently working on my projects.
-- 📚 I'm a student at Bilkent University.
+- 📚 I'm a 3rd year Computer Science student at Bilkent University.
 - Linkedin: [Linkedin](https://www.linkedin.com/in/erdem-aydin1/)
 <!--
 **edorika/edorika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
