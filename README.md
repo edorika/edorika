@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Erdem Aydın
-- 📚 I'm a 3rd year Computer Science student at Bilkent University.
+- 📚 I'm a 4th year Computer Science student at Bilkent University.
 - 🔭 I’m currently working on my projects.
 - Linkedin: [Linkedin](https://www.linkedin.com/in/erdem-aydin1/)
 <!--
